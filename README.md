@@ -2,7 +2,7 @@
 
 Simple, fast, and efficient logging facade for Android apps.
 
-Inspired by Timber and Logcat.
+Inspired by [Timber](https://github.com/JakeWharton/timber) and [Logcat](https://github.com/square/logcat).
 
 ## Features
 
